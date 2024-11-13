@@ -1,0 +1,16 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Column 1 -->
+    <item android:right="1dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#F8F4F4" />
+            <stroke android:width="1dp" android:color="#000000" />
+        </shape>
+    </item>
+    <!-- Column 2 -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#F8F4F4" />
+            <stroke android:width="1dp" android:color="#000000" />
+        </shape>
+    </item>
+</layer-list>
